@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigHub", "GigHub\GigHub.csproj", "{2BD2BDA1-684E-4220-AD67-5C49A6DC1E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigHub.Tests", "GigHub.Tests\GigHub.Tests.csproj", "{C28EA6B7-5F6A-4590-A3F9-2C1D047262E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD2BDA1-684E-4220-AD67-5C49A6DC1E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD2BDA1-684E-4220-AD67-5C49A6DC1E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD2BDA1-684E-4220-AD67-5C49A6DC1E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD2BDA1-684E-4220-AD67-5C49A6DC1E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C28EA6B7-5F6A-4590-A3F9-2C1D047262E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28EA6B7-5F6A-4590-A3F9-2C1D047262E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28EA6B7-5F6A-4590-A3F9-2C1D047262E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28EA6B7-5F6A-4590-A3F9-2C1D047262E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {663F113D-FCC0-425F-843E-C993CB9A3AF6}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tymofii-mamonov.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GigHub\\GigHub.csproj
+		SccProjectName1 = GigHub
+		SccLocalPath1 = GigHub
+		SccProjectUniqueName2 = GigHub.Tests\\GigHub.Tests.csproj
+		SccProjectName2 = GigHub.Tests
+		SccLocalPath2 = GigHub.Tests
+	EndGlobalSection
+EndGlobal
